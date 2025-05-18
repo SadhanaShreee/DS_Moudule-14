@@ -31,6 +31,7 @@ void printArray(int array[], int size) {
 
 ## Output:
 
+![Screenshot 2025-05-18 115250](https://github.com/user-attachments/assets/a0eee2a6-ca40-4079-a271-69c61bc480a7)
 
 
 ## Result:
