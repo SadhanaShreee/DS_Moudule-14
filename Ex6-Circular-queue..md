@@ -50,6 +50,7 @@ return element;
 ```
 
 ## Output:
+![Screenshot 2025-05-18 114715](https://github.com/user-attachments/assets/eef09f5a-ab8b-4ff1-9d81-2578c6704a92)
 
 
 
