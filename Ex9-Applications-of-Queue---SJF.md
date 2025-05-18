@@ -83,6 +83,7 @@ int main()
 ```
 
 ## Output:
+![Screenshot 2025-05-18 120210](https://github.com/user-attachments/assets/bc654f8e-1c68-4421-93a0-4528491d5d02)
 
 
 
