@@ -43,6 +43,7 @@ int count(int *arr) {
 
 ## Output:
 
+![Screenshot 2025-05-18 115918](https://github.com/user-attachments/assets/34358893-11a8-44da-aff3-bfeaf62e809e)
 
 
 ## Result:
