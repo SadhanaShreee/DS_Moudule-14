@@ -30,6 +30,9 @@ int turnaroundtime( int proc[], int n,int burst_time[], int wait_time[], int tat
 
 ## Output:
 
+![Screenshot 2025-05-18 120745](https://github.com/user-attachments/assets/333c5482-71ed-4d7d-bb35-85643d624387)
+
+
 
 
 ## Result:
